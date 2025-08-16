@@ -18,6 +18,12 @@ A simple and efficient **web tool** for uploading images and adding customizable
 - **Image Processing:** ImageMagick  
 
 ---
+🌐 Live Demo
+
+You can access the deployed project here:
+👉 WaterWave on Netlify
+
+---
 
 ## 🚀 Getting Started
 
@@ -26,7 +32,3 @@ A simple and efficient **web tool** for uploading images and adding customizable
 git clone https://github.com/sourabhajain/WaterWave.git
 cd WaterWave
 
-🌐 Live Demo
-
-You can access the deployed project here:
-👉 WaterWave on Netlify
