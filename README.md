@@ -3,6 +3,13 @@
 A simple and efficient **web tool** for uploading images and adding customizable watermarks with **real-time previews**.  
 
 ---
+🌐 Live Demo
+
+You can access the deployed project here:
+
+👉 WaterWave on Netlify: https://tourmaline-paletas-c91813.netlify.app/
+
+---
 
 ## ✨ Features
 - 🖼️ Upload images easily using **DropZone.js**.  
@@ -17,12 +24,6 @@ A simple and efficient **web tool** for uploading images and adding customizable
 - **Backend:** Node.js, Express  
 - **Image Processing:** ImageMagick  
 
----
-🌐 Live Demo
-
-You can access the deployed project here:
-
-👉 WaterWave on Netlify: https://tourmaline-paletas-c91813.netlify.app/
 
 ---
 
